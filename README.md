@@ -1,4 +1,4 @@
-##Deep Learning & Machine Learning Practice
+# **Deep Learning & Machine Learning Practice**
 
 This repository contains my complete collection of deep learning and machine learning practice codes. It covers both the theoretical and practical aspects of key algorithms, models, and datasets. Each notebook and script is written for clarity, experimentation, and concept strengthening.
 
