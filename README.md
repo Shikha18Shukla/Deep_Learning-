@@ -1,4 +1,4 @@
-Deep Learning & Machine Learning Practice
+##Deep Learning & Machine Learning Practice
 
 This repository contains my complete collection of deep learning and machine learning practice codes. It covers both the theoretical and practical aspects of key algorithms, models, and datasets. Each notebook and script is written for clarity, experimentation, and concept strengthening.
 
@@ -45,10 +45,14 @@ Random Search CV
 Comparative Results and Best Model Selection
 
 
+
+
 🧠 Tech Stack
 Languages: Python
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV (for image tasks)
 Environment: Google Colab / VS Code 
+
+
 
 
 🚀 How to Use
@@ -60,8 +64,12 @@ Open Google Colab or run Python scripts directly:
 Gooogle Colab
 
 
+
+
 🎯 Goal
 The goal of this repository is to build a strong foundation in both machine learning and deep learning, while experimenting with different models, datasets, and tuning strategies to gain hands-on experience with real-world problem-solving.
+
+
 
 
 💡 Future Work
@@ -69,6 +77,8 @@ Implementing RNN and LSTM models
 Transfer Learning on image datasets
 Deploying models with Flask or Streamlit
 Exploring AutoML and Explainable AI (XAI)
+
+
 
 🧾 Author
 Shikha Shukla
